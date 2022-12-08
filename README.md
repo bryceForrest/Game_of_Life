@@ -1,5 +1,5 @@
 # John Conway's Game of Life
-![Game of Life](/Game_of_Life/life.gif)
+![life](https://user-images.githubusercontent.com/99369790/206342109-35a50f99-b86e-4272-898d-3f83b327f1ce.gif)
 
 A C++ program that generates a random instanc of John Conway's Game of Life to be played out on the terminal.
 
